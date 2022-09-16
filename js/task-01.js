@@ -8,4 +8,3 @@ CategoryAnimals.forEach((title) => {
 Category 🔵🌕 ${title.firstElementChild.textContent}
 Elemants: ${title.lastElementChild.childElementCount}`);
 });
-
